@@ -1,0 +1,17 @@
+domain,n_problem,MCTS_temps,MCTS_taille,HSP_temps,HSP_taille
+blocks_domain,1,227.0,12,38.0,6
+blocks_domain,2,117.0,12,21.0,10
+blocks_domain,3,126.0,8,20.0,6
+blocks_domain,4,243.0,18,23.0,12
+depots_domain,1,196.0,13,67.0,10
+depots_domain,2,507.0,23,72.0,15
+depots_domain,3,10699.0,39,1331.0,29
+depots_domain,4,608173.0,70,8046.0,30
+gripper_domain,1,36.0,16,5.0,11
+gripper_domain,2,65.0,22,15.0,17
+gripper_domain,3,160.0,31,167.0,23
+gripper_domain,4,159.0,38,1033.0,29
+logistics_domain,1,187.0,34,23.0,20
+logistics_domain,2,174.0,36,35.0,19
+logistics_domain,3,125.0,23,16.0,15
+logistics_domain,4,241.0,42,132.0,27
